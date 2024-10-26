@@ -16,5 +16,3 @@
 4. after that send photo as a test to bot.
 5. replay text to uploaded photo and send it.
 6. bot will send you the photo with the your text.
-
-
